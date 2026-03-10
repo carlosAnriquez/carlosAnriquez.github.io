@@ -4,13 +4,20 @@
     "href": "about.html",
     "title": "CV",
     "section": "",
-    "text": "Sociólogo por la Universidad de Chile, con trayectoria en ciencias sociales cuantitativas e investigación aplicada. Mi experiencia principal está en transformar datos complejos en insights signitcativos, mediante visualizaciones atractivas y modelos estadísticos que permitan responder preguntas complejas. Trabajo con R y Python siguiendo principios de ciencia abierta y fujos reproducibles, documentando análisis y resultados en Quarto para garantizar transparencia y replicabilidad.\nAptitudes: Estadística, investigación social cuantitativa, R, Python, gestión de datos, teoría social, visualización de datos, inglés avanzado."
+    "text": "Descargar CV"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "carlosAnriquez.github.io",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Sociólogo por la Universidad de Chile, con trayectoria en ciencias sociales cuantitativas e investigación aplicada. Mi experiencia principal está en transformar datos complejos en insights signitcativos, mediante visualizaciones atractivas y modelos estadísticos que permitan responder preguntas complejas. Trabajo con R y Python siguiendo principios de ciencia abierta y fujos reproducibles, documentando análisis y resultados en Quarto para garantizar transparencia y replicabilidad.\nAptitudes: Estadística, investigación social cuantitativa, R, Python, gestión de datos, teoría social, visualización de datos, inglés avanzado."
+  },
+  {
+    "objectID": "publicaciones.html",
+    "href": "publicaciones.html",
+    "title": "Publicaciones",
+    "section": "",
+    "text": "Anríquez, C. (2024). El rol del miedo y la orientación política en la justificación de la violencia policial. Descargar\nLagos, A., Salinas, C., Berríos, C., y Anriquez, C. (2025). Violencia y desinformación: ¿Cómo cubren los medios las acciones violentas originadas por bulos informativos?. Aula Y Ciencia, (19), 91-110. Descargar\nAnríquez, C., Lagos, A., Berríos, C. (En progreso) Exploración de la percepción de la Libertad de Expresión y el Derecho a la comunicación en redes sociales.\nChiappa, R., Anríquez, C. (En progreso) ¿Persistent or new inequalities?: The effects of Gender, Social Class, and Geographic Origins in scientific productivity of Chilean doctoral fellows.\nPNUD. (En progreso) El miedo al crimen en Chile."
   }
 ]
