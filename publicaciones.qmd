@@ -1,0 +1,13 @@
+---
+title: "Publicaciones"
+---
+
+- Anríquez, C. (2024). El rol del miedo y la orientación política en la justificación de la violencia policial. [Descargar](papers/memoria_carlos_anriquez.pdf){.btn .btn-dark .btn-sm download="memoria_carlos_anriquez.pdf"}
+
+- Lagos, A., Salinas, C., Berríos, C., y Anriquez, C. (2025). Violencia y desinformación: ¿Cómo cubren los medios las acciones violentas originadas por bulos informativos?. *Aula Y Ciencia*, (19), 91-110. [Descargar](papers/paper_libertad_expresion.pdf){.btn .btn-dark .btn-sm download="paper_libertad_expresion.pdf"}
+
+- Anríquez, C., Lagos, A., Berríos, C. (En progreso) Exploración de la percepción de la Libertad de Expresión y el Derecho a la comunicación en redes sociales.
+
+- Chiappa, R., Anríquez, C. (En progreso) ¿Persistent or new inequalities?: The effects of Gender, Social Class, and Geographic Origins in scientific productivity of Chilean doctoral fellows.
+
+- PNUD. (En progreso) El miedo al crimen en Chile.

@@ -3,15 +3,18 @@ project:
 
 website:
   title: "carlosAnriquez.github.io"
+  search: false
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - href: publicaciones.qmd
+        text: Publicaciones
 
 format:
   html:
-    theme: cosmo
+    theme: darkly
     css: styles.css
     toc: true
 

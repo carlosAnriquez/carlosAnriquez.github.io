@@ -2,6 +2,9 @@
 title: "CV"
 ---
 
-Sociólogo por la Universidad de Chile, con trayectoria en ciencias sociales cuantitativas e investigación aplicada. Mi experiencia principal está en transformar datos complejos en insights signitcativos, mediante visualizaciones atractivas y modelos estadísticos que permitan responder preguntas complejas. Trabajo con R y Python siguiendo principios de ciencia abierta y fujos reproducibles, documentando análisis y resultados en Quarto para garantizar transparencia y replicabilidad.
+[Descargar CV](cv_carlos_anriquez.pdf){.btn .btn-dark}
 
-Aptitudes: Estadística, investigación social cuantitativa, R, Python, gestión de datos, teoría social, visualización de datos, inglés avanzado.
+```{=html}
+<iframe src="cv_carlos_anriquez.pdf" width="100%" height="850px" style="border:none; border-radius:6px;"></iframe>
+```
+---

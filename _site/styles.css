@@ -1,1 +1,13 @@
-/* css styles */
+
+.navbar {
+  background-color: #1a1a1a !important;
+  border-bottom: 1px solid #222222;
+}
+
+.navbar-brand, .nav-link {
+  color: #ffffff !important;
+}
+
+.nav-link:hover {
+  color: #cccccc !important;
+}
