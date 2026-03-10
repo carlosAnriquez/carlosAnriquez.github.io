@@ -11,3 +11,7 @@
 .nav-link:hover {
   color: #cccccc !important;
 }
+
+p {
+  text-align: justify;
+}
